@@ -3,5 +3,9 @@
 aqdasd
 啊大苏打as
 啊实打实执
+<<<<<<< HEAD
 热补丁
 master
+=======
+热补丁 rubu
+>>>>>>> rebu
